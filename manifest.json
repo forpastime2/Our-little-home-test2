@@ -1,0 +1,1 @@
+{"name":"Our Little Home","short_name":"Little Home","description":"ふたりだけの魔法の家","start_url":"./index.html","scope":"./","display":"standalone","orientation":"any","background_color":"#211a28","theme_color":"#261d2a","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
